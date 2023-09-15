@@ -1,0 +1,50 @@
+body{
+    background-color: #E8E8E8;
+}
+
+.a_tbdr{
+    border:1px dashed red;
+}
+
+
+header{
+    height:81px;
+    margin:auto;
+    width:94.5%;
+
+}
+main{
+    height: 3903px;
+   
+    
+}
+
+.mt-5.a_mt5{
+    margin-top: 5rem!important;
+}
+
+
+.a_footer1{
+    height:264px;
+}
+.a_footer2{
+    height:116px;
+}
+.a_footer3{
+    height:128px;
+}
+.a_footer4{
+    height:300px;
+}
+.a_footer5{
+    height:99px;
+}
+
+
+
+
+@media (min-width: 1200px){
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1299px;
+}
+}
